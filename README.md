@@ -10,3 +10,5 @@ ZCZC W03 Done!
 ZCZC W04 Sudah mencoba demo Week04
 
 ZCZC W05 Sudah mencoba demo Week05
+
+ZCZC W06 Sudah mencoba demo
